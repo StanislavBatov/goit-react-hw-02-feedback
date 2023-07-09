@@ -1,0 +1,15 @@
+.Feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.Buttons {
+  display: flex;
+  gap: 5px;
+}
+
+.Text {
+  font-size: 20px;
+  font-weight: 500;
+}
